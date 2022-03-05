@@ -1,0 +1,19 @@
+.. djangp_cityloc_pkg documentation master file, created by
+   sphinx-quickstart on Fri Mar  4 23:28:17 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to djangp_cityloc_pkg's documentation!
+==============================================
+
+.. automodule::django_cityloc_pkg_russelmelvin
+      :members:
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
